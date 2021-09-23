@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "614c9c4aaf09dd53457ca486"
+  },
+  "clientName": "Test 1",
+  "clientEmail": "test1@test.com",
+  "clientPhone": "1412541212",
+  "providers": [
+    {
+      "$oid": "614c94aaaf09dd53457ca2c4"
+    },
+    {
+      "$oid": "614ca091af09dd53457ca555"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "614cb78854d64d30d05a21c1"
+  },
+  "clientName": "Test 2",
+  "clientEmail": "test2@test.com",
+  "clientPhone": "141245215125",
+  "providers": [
+    {
+      "$oid": "614c94aaaf09dd53457ca2c4"
+    }
+  ]
+}]
